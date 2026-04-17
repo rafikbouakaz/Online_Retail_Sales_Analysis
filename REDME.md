@@ -79,6 +79,16 @@ Total records: ~1,000,000 transactions
 5. Increase average order value through bundling and upselling  
 
 ---
+## 📈 Sample Visualizations
+
+### Monthly Revenue Trend
+![Monthly Revenue](outputs/figures/monthly_revenue.png)
+
+### Top Products by Revenue
+![Top Products](outputs/figures/top_products.png)
+
+### Top Customers
+![Top Customers](outputs/figures/top_customers.png)
 
 ## How to Run the Project
 
